@@ -32,7 +32,7 @@
 
 **Engineering Focus:** NLP Fine-tuning · RAG · Vector Search · Error Analysis
 
-[프로젝트 GitHub](PROMPTUNE_REPO_URL)
+[프로젝트 GitHub](https://github.com/Seungdeuk/promptune)
 
 ---
 
@@ -51,7 +51,7 @@
 
 **Engineering Focus:** Real-time Communication · Backend Integration · Mobile Development
 
-[프로젝트 GitHub](NESTED_REPO_URL)
+[프로젝트 GitHub](https://github.com/Seungdeuk/nested-platform)
 
 ---
 
